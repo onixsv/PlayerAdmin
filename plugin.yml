@@ -1,0 +1,8 @@
+name: PlayerAdmin
+main: Player\Admin
+author: BLEAN
+version: "1.1"
+api: 4.0.0
+commands:
+  관리:
+    description: 관리를 합시다
